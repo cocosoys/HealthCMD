@@ -1,0 +1,7 @@
+name: HealthCMD
+version: '${project.version}'
+main: soys.plugin.healthcmd.HealthCMD
+commands:
+  healthcmd:
+    aliases:
+      - hcmd
